@@ -1,2 +1,2 @@
 # plasma-activated-liquid
-Gas Plasma Activated Solutions for Cancer therapy with radiation data repository
+Data repository for my PhD thesis entitled "Gas Plasma Activated Solutions for Cancer therapy with radiation"
